@@ -35,5 +35,6 @@ public class Move : MonoBehaviour
 
         //4.SLerp (구면 선형 보간 이동) : 포물선 이동
         // transform.position = Vector3.Slerp(transform.position, target, 0.05f); // 마지막 매개변수는 [0, 1]
+        //
     }
 }
